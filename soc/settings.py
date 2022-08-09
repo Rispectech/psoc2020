@@ -33,7 +33,7 @@ EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'pclubsummerofcode.in', 'www.pclubsummerofcode.in',
-                 'localhost',  '0.0.0.0', 'psoc2021.herokuapp.com']
+                 'localhost',  '0.0.0.0', 'psoc2022.herokuapp.com']
 
 
 # Application definition
